@@ -1,0 +1,10 @@
+{
+	"title"		:	"Prop Hunt: X2Z Weapon Manager",
+	"type"		:	"gamemode",
+	"tags"		:	[ "fun", "build" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.7z"
+	]
+}
